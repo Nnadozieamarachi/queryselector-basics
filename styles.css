@@ -1,0 +1,38 @@
+li{
+  
+    width: 7rem;
+    height: 5rem;
+    display:inline-block;
+    list-style: none;
+    background-color: aquamarine;
+    margin: auto;
+    /* padding-right: 200px; */
+    /* object-fit: fill; */
+    
+    /* align-content: center; */
+    /* justify-content: center; */
+
+}
+.numbers{
+    font-weight: 800;
+    font-size:xx-large;
+    align-items: center;
+    justify-content: center;
+    padding-left: 80px;
+    padding-top: 40px;
+    margin: 3rem;
+
+}
+#displayBox{
+    border: 1rem solid green;
+    display: absolute;
+    width: 20rem;
+    height: 10rem;
+    margin: auto;
+    margin-top: 2px;
+    
+}
+.section2{
+    display: block;
+
+}
